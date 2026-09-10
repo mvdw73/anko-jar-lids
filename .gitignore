@@ -1,0 +1,9 @@
+# Build files
+*.stl
+*.3mf
+
+# Generated files
+generated/
+
+# Python cache
+__pycache__/
